@@ -3,10 +3,7 @@
       <div class="container" style="margin-top: 7%; text-align: center;">
 
 
-     
-
-
-        <div class="col-xs-12 col-md-3 text-left">
+        <div class="col-xs-12 col-md-3 text-left hidden-xs hidden-sm">
           <a href="http://noisetrade.com/themitchells/the-mitchells/?link=download" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_06.png" /></a>
           <div>&nbsp;</div>
           <a href="http://noisetrade.com/themitchells/the-mitchells/?link=listen" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_13.png" /></a>
@@ -28,7 +25,7 @@
 
         </div>
 
-        <div class="col-xs-12 col-md-3 text-right">
+        <div class="col-xs-12 col-md-3 text-right hidden-xs hidden-sm">
           <a href="https://noisetrade.com/themitchells/the-mitchells/?tip=1" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_09.png" /></a>
           <div>&nbsp;</div>
           <a href="/shows/"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_14.png" /></a>
