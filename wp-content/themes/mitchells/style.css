@@ -226,6 +226,12 @@ ul.menu li a {
         width: 60%;
     }
 
+    .navbar-collapse {
+        position: fixed;
+        background-color: white;
+        z-index: 1000;
+    }
+
 }
 
 
