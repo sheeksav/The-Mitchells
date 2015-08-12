@@ -9,9 +9,9 @@
 
         <div class="col-xs-2 text-left hidden-xs" style="margin-top: 7%;">
 
-            <a href="http://noisetrade.com/themitchells/the-mitchells/?link=download" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_06.png" /></a>
+            <a href="http://noisetrade.com/themitchells/the-mitchells/?link=download" target="_blank"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_06.png" /></a>
             <div>&nbsp;</div>
-            <a href="http://noisetrade.com/themitchells/the-mitchells/?link=listen" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_13.png" /></a>
+            <a href="http://noisetrade.com/themitchells/the-mitchells/?link=listen" target="_blank"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_13.png" /></a>
 
         </div> <!--/.col-->
 
@@ -36,9 +36,9 @@
 
         <div class="col-xs-2 text-right hidden-xs" style="margin-top: 7%;">
 
-          <a href="https://noisetrade.com/themitchells/the-mitchells/?tip=1" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_09.png"  /></a>
+          <a href="https://noisetrade.com/themitchells/the-mitchells/?tip=1" target="_blank"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_09.png"  /></a>
             <div>&nbsp;</div>
-          <a href="/shows/"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_14.png" /></a>
+          <a href="/shows/"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_14.png" /></a>
 
         </div> <!--/.col-->
 
