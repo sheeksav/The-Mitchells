@@ -25,7 +25,6 @@
     <div class="row">
       <div class="col-xs-12">
         &copy; 2015 The Mitchells<br/>
-        <p>&nbsp;</p>
         <em>Website design:</em> Chris Dye. <em>Web development:</em> Andy Sheeks. <em>Photography:</em> Wendy Minor Viny.
       </div>
     </div>

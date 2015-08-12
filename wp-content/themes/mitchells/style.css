@@ -207,6 +207,18 @@ ul.menu li a {
 }
 
 
+
+@media (max-width: 768px) {
+
+    #footer-left {
+        text-align: right;
+        margin-bottom: 20px;
+    }
+
+}
+
+
+
 @media (min-width: 768px) {
 
     #feature-message-row {

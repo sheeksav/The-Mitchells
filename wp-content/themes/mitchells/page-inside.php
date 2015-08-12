@@ -7,7 +7,7 @@
 
       <div class="row">
 
-        <div class="col-xs-2 text-left" style="margin-top: 7%;">
+        <div class="col-xs-2 text-left hidden-xs" style="margin-top: 7%;">
 
             <a href="http://noisetrade.com/themitchells/the-mitchells/?link=download" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_06.png" /></a>
             <div>&nbsp;</div>
@@ -34,7 +34,7 @@
             </div> <!--/.col-inner-->
         </div> <!--/.col-->
 
-        <div class="col-xs-2 text-right" style="margin-top: 7%;">
+        <div class="col-xs-2 text-right hidden-xs" style="margin-top: 7%;">
 
           <a href="https://noisetrade.com/themitchells/the-mitchells/?tip=1" target="_blank"><img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_09.png"  /></a>
             <div>&nbsp;</div>
