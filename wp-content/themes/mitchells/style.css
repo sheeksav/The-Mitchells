@@ -196,14 +196,27 @@ ul.menu li a {
     margin-top: 40px;
 }
 
+.social-icon {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 
 
 @media (min-width: 768px) {
 
     #feature-message-row {
-        margin-left: -100px;
-        margin-right: -100px;
+        margin-left: -150px;
+        margin-right: -150px;
+    }
+
+    #footer-left {
+        text-align: right;
+    }
+
+    #footer-right {
+        text-align: left;
     }
 
 }
