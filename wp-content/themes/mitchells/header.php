@@ -23,7 +23,7 @@
 
   <body>
 
-    <nav class="navbar navbar-fixed-top">
+    <nav class="navbar">
       <div class="container-fluid">
 
         <div class="navbar-header">
