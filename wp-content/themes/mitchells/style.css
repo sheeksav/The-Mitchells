@@ -237,6 +237,8 @@ ul.menu li a {
         position: fixed;
         background-color: white;
         z-index: 1000;
+        width: 100%;
+        top: 50px;
     }
 
 }
