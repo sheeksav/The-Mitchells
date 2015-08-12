@@ -226,6 +226,13 @@ ul.menu li a {
         width: 60%;
     }
 
+    .navbar-header {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+
     .navbar-collapse {
         position: fixed;
         background-color: white;
