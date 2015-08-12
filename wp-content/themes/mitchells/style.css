@@ -216,7 +216,7 @@ ul.menu li a {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 990px) {
 
     #footer-left {
         text-align: right;
@@ -227,7 +227,7 @@ ul.menu li a {
 
 
 
-@media (min-width: 768px) {
+@media (min-width: 991px) {
 
     #feature-message-row {
         margin-left: -150px;
