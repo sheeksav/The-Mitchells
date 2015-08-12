@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-      <div class="container" style="margin-top: 7%; text-align: center;">
+      <div class="container" text-align: center;">
 
 
         <div class="col-xs-12 col-md-3 text-left hidden-xs">
