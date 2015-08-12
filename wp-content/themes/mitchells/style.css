@@ -202,6 +202,9 @@ ul.menu li a {
     margin-right: 10px;
 }
 
+#footer-right {
+    text-align: center;
+}
 
 
 @media (min-width: 768px) {
