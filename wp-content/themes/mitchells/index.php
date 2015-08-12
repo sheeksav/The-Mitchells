@@ -10,7 +10,7 @@
         </div>
 
         <div class="col-xs-12 col-md-6 text-center">
-          <img src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_03.png" style="position: relative; top: -20px;"/>
+          <img class="logo-main" src="<?php bloginfo('template_url'); ?>/img/TheMitchells_site_FNL_03.png" />
 	
 	<div class="row" id="feature-message-row">
 	<div class="col-xs-12">

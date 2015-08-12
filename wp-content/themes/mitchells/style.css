@@ -20,8 +20,8 @@ Version: 1.0
 
 
 /*@font-face {*/
-    /*font-family: IntrinzicSerifaD-Bold;*/
-    /*src: url("path-to-the-font-file/GraublauWeb.otf") format("opentype");*/
+/*font-family: IntrinzicSerifaD-Bold;*/
+/*src: url("path-to-the-font-file/GraublauWeb.otf") format("opentype");*/
 /*}*/
 
 @font-face {
@@ -81,27 +81,27 @@ a, a:visited {
 }
 
 h1 {
-  font-size: 28px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h2 {
-  font-size: 24px;
-  margin-top: 20px;
-  margin-bottom: 10px;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 h3 {
-  font-size: 18px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h4 {
-  font-size: 16px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .starter-template {
@@ -132,6 +132,12 @@ h4 {
 
 #feature-message-row p {
     margin-bottom: 0 !important;
+}
+
+img.logo-main {
+    position: relative;
+    top: -20px;
+    left: -28px;
 }
 
 /* -------------------------------------------- */
@@ -175,16 +181,29 @@ ul.menu li a {
 /* -------------------------------------------- */
 
 .footer {
-   margin-top: 20px;
+    margin-top: 20px;
 }
 
 .footer > .container {
-   padding-left: 10%;
-   padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .footer-bottom {
-   background-color: white;
-   padding: 15px 0;
-   font-size: 0.9em;
+    background-color: white;
+    padding: 15px 0;
+    font-size: 0.9em;
+    margin-top: 40px;
+}
+
+
+
+
+@media (min-width: 768px) {
+
+    #feature-message-row {
+        margin-left: -100px;
+        margin-right: -100px;
+    }
+
 }
