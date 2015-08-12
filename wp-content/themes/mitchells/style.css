@@ -113,6 +113,14 @@ h4 {
     background-color: white;
 }
 
+.navbar-toggle {
+    border: 1px solid #ccc;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #ccc;
+}
+
 .nav-links {
     line-height: 50px;
 }
@@ -232,6 +240,10 @@ ul.menu li a {
 
     #footer-right {
         text-align: left;
+    }
+
+    .navbar-nav {
+        width: 100%;
     }
 
 }
