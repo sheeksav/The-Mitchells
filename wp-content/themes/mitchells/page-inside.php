@@ -15,7 +15,7 @@
 
         </div> <!--/.col-->
 
-        <div class="col-xs-8">
+        <div class="col-xs-12 col-md-8">
             <div class="col-inner">
 
                 <div class="text-center">
