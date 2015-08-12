@@ -23,16 +23,6 @@
 
   <body>
 
-    <!--
-    <nav class="navbar">
-      <div class="container-fluid">
-      	<?php wp_nav_menu( array( 'theme_location' => 'main-nav-menu' ) ); ?>
-      </div>
-    </nav>
-    -->
-
-
-
     <nav class="navbar">
       <div class="container-fluid">
 
@@ -46,9 +36,9 @@
         </div>
 
         <div id="navbar" class="collapse navbar-collapse">
-          <div class="nav navbar-nav">
+          <ul class="nav navbar-nav">
             <?php wp_nav_menu( array( 'theme_location' => 'main-nav-menu' ) ); ?>
-          </div>
+          </ul>
         </div><!--/.nav-collapse -->
 
       </div>
