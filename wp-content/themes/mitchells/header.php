@@ -23,10 +23,35 @@
 
   <body>
 
+    <!--
     <nav class="navbar">
       <div class="container-fluid">
       	<?php wp_nav_menu( array( 'theme_location' => 'main-nav-menu' ) ); ?>
-      </div> <!--/.container-fluid-->
+      </div>
+    </nav>
+    -->
+
+
+
+    <nav class="navbar">
+      <div class="container-fluid">
+
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+          <div class="nav navbar-nav">
+            <?php wp_nav_menu( array( 'theme_location' => 'main-nav-menu' ) ); ?>
+          </div>
+        </div><!--/.nav-collapse -->
+
+      </div>
     </nav>
     
     <?php wp_head(); ?>
